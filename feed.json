@@ -49,13 +49,15 @@
             "id": "https://avelguenin.github.io/about-me.html",
             "url": "https://avelguenin.github.io/about-me.html",
             "title": "About me",
+            "summary": "I am a complex systems researcher building an integrated conception of life, cognition, and culture as an enactive dynamical process across scales. I&hellip;",
+            "content_html": "<p>I am a complex systems researcher building an integrated conception of life, cognition, and culture as an enactive dynamical process across scales. I draw from both philosophical and computational tools to understand <em>how</em> and <em>why</em> complex functional entities assemble in living systems, and what it means to exist as such a unit. I seek to discover what processes underlie the emergence of social organisation in human history, and what it means for our collective future and our role as situated humans in shaping it.</p>\n",
             "author": {
                 "name": "Avel GUÉNIN"
             },
             "tags": [
             ],
             "date_published": "2021-04-13T13:24:17+02:00",
-            "date_modified": "2021-04-13T13:24:17+02:00"
+            "date_modified": "2021-04-13T14:32:35+02:00"
         }
     ]
 }

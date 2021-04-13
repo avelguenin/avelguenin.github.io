@@ -3,7 +3,7 @@
     <title>Avel GUÉNIN</title>
     <link href="https://avelguenin.github.io/feed.xml" rel="self" />
     <link href="https://avelguenin.github.io" />
-    <updated>2021-04-13T13:24:33+02:00</updated>
+    <updated>2021-04-13T14:32:35+02:00</updated>
     <author>
         <name>Avel GUÉNIN</name>
     </author>
@@ -53,8 +53,17 @@
         <link href="https://avelguenin.github.io/about-me.html"/>
         <id>https://avelguenin.github.io/about-me.html</id>
 
-        <updated>2021-04-13T13:24:17+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-04-13T14:32:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                    I am a complex systems researcher building an integrated conception of life, cognition, and culture as an enactive dynamical process across scales. I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I am a complex systems researcher building an integrated conception of life, cognition, and culture as an enactive dynamical process across scales. I draw from both philosophical and computational tools to understand <em>how</em> and <em>why</em> complex functional entities assemble in living systems, and what it means to exist as such a unit. I seek to discover what processes underlie the emergence of social organisation in human history, and what it means for our collective future and our role as situated humans in shaping it.</p>
+
+            ]]>
+        </content>
     </entry>
 </feed>
