@@ -10,16 +10,52 @@
     },
     "items": [
         {
+            "id": "https://avelguenin.github.io/creation.html",
+            "url": "https://avelguenin.github.io/creation.html",
+            "title": "Creation",
+            "author": {
+                "name": "Serval"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-13T12:22:18+02:00",
+            "date_modified": "2021-04-13T12:22:18+02:00"
+        },
+        {
+            "id": "https://avelguenin.github.io/dank.html",
+            "url": "https://avelguenin.github.io/dank.html",
+            "title": "About",
+            "author": {
+                "name": "Serval"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-13T12:21:09+02:00",
+            "date_modified": "2021-04-13T12:21:49+02:00"
+        },
+        {
+            "id": "https://avelguenin.github.io/uuuuuuuuuu.html",
+            "url": "https://avelguenin.github.io/uuuuuuuuuu.html",
+            "title": "Research",
+            "author": {
+                "name": "Serval"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-13T12:21:04+02:00",
+            "date_modified": "2021-04-13T12:21:55+02:00"
+        },
+        {
             "id": "https://avelguenin.github.io/eiaeiaea.html",
             "url": "https://avelguenin.github.io/eiaeiaea.html",
-            "title": "eiaeiaea",
+            "title": "Mediation",
             "author": {
                 "name": "Serval"
             },
             "tags": [
             ],
             "date_published": "2021-04-13T12:04:43+02:00",
-            "date_modified": "2021-04-13T12:04:43+02:00"
+            "date_modified": "2021-04-13T12:22:14+02:00"
         }
     ]
 }

@@ -3,21 +3,57 @@
     <title>Personal</title>
     <link href="https://avelguenin.github.io/feed.xml" rel="self" />
     <link href="https://avelguenin.github.io" />
-    <updated>2021-04-13T12:04:43+02:00</updated>
+    <updated>2021-04-13T12:22:18+02:00</updated>
     <author>
         <name>Serval</name>
     </author>
     <id>https://avelguenin.github.io</id>
 
     <entry>
-        <title>eiaeiaea</title>
+        <title>Creation</title>
+        <author>
+            <name>Serval</name>
+        </author>
+        <link href="https://avelguenin.github.io/creation.html"/>
+        <id>https://avelguenin.github.io/creation.html</id>
+
+        <updated>2021-04-13T12:22:18+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Serval</name>
+        </author>
+        <link href="https://avelguenin.github.io/dank.html"/>
+        <id>https://avelguenin.github.io/dank.html</id>
+
+        <updated>2021-04-13T12:21:49+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Research</title>
+        <author>
+            <name>Serval</name>
+        </author>
+        <link href="https://avelguenin.github.io/uuuuuuuuuu.html"/>
+        <id>https://avelguenin.github.io/uuuuuuuuuu.html</id>
+
+        <updated>2021-04-13T12:21:55+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Mediation</title>
         <author>
             <name>Serval</name>
         </author>
         <link href="https://avelguenin.github.io/eiaeiaea.html"/>
         <id>https://avelguenin.github.io/eiaeiaea.html</id>
 
-        <updated>2021-04-13T12:04:43+02:00</updated>
+        <updated>2021-04-13T12:22:14+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
