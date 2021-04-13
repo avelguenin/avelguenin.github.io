@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Personal</title>
-    <link href="https://avelguenin.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://avelguenin.github.io/gh-pages" />
+    <link href="https://avelguenin.github.io/feed.xml" rel="self" />
+    <link href="https://avelguenin.github.io" />
     <updated>2021-04-13T12:04:43+02:00</updated>
     <author>
         <name>Serval</name>
     </author>
-    <id>https://avelguenin.github.io/gh-pages</id>
+    <id>https://avelguenin.github.io</id>
 
     <entry>
         <title>eiaeiaea</title>
         <author>
             <name>Serval</name>
         </author>
-        <link href="https://avelguenin.github.io/gh-pages/eiaeiaea.html"/>
-        <id>https://avelguenin.github.io/gh-pages/eiaeiaea.html</id>
+        <link href="https://avelguenin.github.io/eiaeiaea.html"/>
+        <id>https://avelguenin.github.io/eiaeiaea.html</id>
 
         <updated>2021-04-13T12:04:43+02:00</updated>
             <summary></summary>
