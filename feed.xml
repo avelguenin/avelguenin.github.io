@@ -3,12 +3,24 @@
     <title>Avel GUÉNIN</title>
     <link href="https://avelguenin.github.io/feed.xml" rel="self" />
     <link href="https://avelguenin.github.io" />
-    <updated>2021-04-13T14:32:35+02:00</updated>
+    <updated>2021-04-14T21:39:41+02:00</updated>
     <author>
         <name>Avel GUÉNIN</name>
     </author>
     <id>https://avelguenin.github.io</id>
 
+    <entry>
+        <title>Business</title>
+        <author>
+            <name>Avel GUÉNIN</name>
+        </author>
+        <link href="https://avelguenin.github.io/business.html"/>
+        <id>https://avelguenin.github.io/business.html</id>
+
+        <updated>2021-04-14T19:01:17+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Creation</title>
         <author>
@@ -53,7 +65,7 @@
         <link href="https://avelguenin.github.io/about-me.html"/>
         <id>https://avelguenin.github.io/about-me.html</id>
 
-        <updated>2021-04-13T14:32:35+02:00</updated>
+        <updated>2021-04-14T21:39:41+02:00</updated>
             <summary>
                 <![CDATA[
                     I am a complex systems researcher building an integrated conception of life, cognition, and culture as an enactive dynamical process across scales. I&hellip;
@@ -62,6 +74,7 @@
         <content type="html">
             <![CDATA[
                 <p>I am a complex systems researcher building an integrated conception of life, cognition, and culture as an enactive dynamical process across scales. I draw from both philosophical and computational tools to understand <em>how</em> and <em>why</em> complex functional entities assemble in living systems, and what it means to exist as such a unit. I seek to discover what processes underlie the emergence of social organisation in human history, and what it means for our collective future and our role as situated humans in shaping it.</p>
+<p>I want to participate in building societies that will withstand the test of the so-called Anthropocene era, which I extend my research work beyond classical (academic) institutions. I founded and coordinate the <a href="https://kairos-research.org">Kairos</a> participative research &amp; scientific mediation collective which focuses on synthesising complexity-oriented approaches to the social sciences. I also work on a cooperative project aimed at integrated synergic research-action approaches to the transition to help institutional actors navigate real world complexity.</p>
 
             ]]>
         </content>
