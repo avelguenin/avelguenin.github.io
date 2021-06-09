@@ -3,7 +3,7 @@
     <title>Avel GUÉNIN</title>
     <link href="https://avelguenin.github.io/feed.xml" rel="self" />
     <link href="https://avelguenin.github.io" />
-    <updated>2021-06-07T10:11:51+02:00</updated>
+    <updated>2021-06-09T13:06:36+02:00</updated>
     <author>
         <name>Avel GUÉNIN</name>
     </author>
@@ -105,15 +105,21 @@
         <link href="https://avelguenin.github.io/research/"/>
         <id>https://avelguenin.github.io/research/</id>
 
-        <updated>2021-05-14T00:18:15+02:00</updated>
+        <updated>2021-06-09T13:06:36+02:00</updated>
             <summary>
                 <![CDATA[
-                    Current status Research coordinator for the Active Inference Lab Research coordinator for Kairos Research Ongoing projects Guénin–Carlut, Avel, and Daniel Friedman. 2021. ‘Active&hellip;
+                    I broadly follow three line of research : Epistemological : What does it mean to understand complex systems and explain their features ?&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="current-status">Current status</h2>
+                <p>I broadly follow three line of research :</p>
+<ul>
+<li><strong>Epistemological :</strong> What does it mean to understand complex systems and explain their features ?</li>
+<li><strong>Sociological :</strong> How do human societies emerge and evolve through time ?</li>
+<li><strong>Computational :</strong> Why do complex systems keep self-organising at all scales of the natural world ?</li>
+</ul>
+<h2 id="current-status">Current status</h2>
 <ul>
 <li>Research coordinator for the <a href="https://www.activeinference.org/">Active Inference Lab</a></li>
 <li>Research coordinator for <a href="https://kairos-research.org/">Kairos Research</a></li>
