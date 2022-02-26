@@ -3,7 +3,7 @@
     <title>Avel GUÉNIN</title>
     <link href="https://avelguenin.github.io/feed.xml" rel="self" />
     <link href="https://avelguenin.github.io" />
-    <updated>2022-02-11T19:36:03+01:00</updated>
+    <updated>2022-02-26T13:07:36+01:00</updated>
     <author>
         <name>Avel GUÉNIN</name>
     </author>
@@ -111,19 +111,33 @@ Renaissance</a> Course</li>
         <link href="https://avelguenin.github.io/research/"/>
         <id>https://avelguenin.github.io/research/</id>
 
-        <updated>2022-02-11T19:36:03+01:00</updated>
+        <updated>2022-02-26T13:06:02+01:00</updated>
             <summary>
                 <![CDATA[
-                    I broadly follow three line of research : Epistemological : What does it mean to understand complex systems and explain their features ?&hellip;
+                    My main interest is to study the dynamics of creative evolution in the multi-scale organization of complex adaptive systems, such as woodlice and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>I broadly follow three line of research :</p>
+                <p>My main interest is to study the dynamics of creative evolution in the multi-scale organization of complex adaptive systems, such as woodlice and human societies. The core insight I draw upon is that such system are constrained by their material organization, their history, and the context of those operation, but ultimately lack a “natural” state space enabling a full representation of their possible states of organization. Therefore, they are poised on the verge of a space of <a href="https://www.edge.org/conversation/stuart_a_kauffman-the-adjacent-possible">adjacent possibles</a>, as their state space continuously evolves as a result of their own activity.</p>
+<p>This basic constatation motivate the formulation of multiple, although deeply interwoven, questions.</p>
 <ul>
-<li><strong>Epistemological :</strong> What does it mean to understand complex systems and explain their features ?</li>
-<li><strong>Sociological :</strong> How do human societies emerge and evolve through time ?</li>
-<li><strong>Computational :</strong> Why do complex systems keep self-organising at all scales of the natural world ?</li>
+<li><strong>Epistemologically,</strong> what does it mean to measure and explain features of creative evolution ?<ul>
+<li><em>Guénin–Carlut, Avel. 2020. ‘Cognition in Eco, Cognition in Vitro - Measurement and Explanation in Cognitive Science’. <a href="https://osf.io/ercz6/">https://osf.io/ercz6/</a> (February 11, 2022).</em></li>
+</ul>
+</li>
+<li><strong>Sociologically,</strong> how do new forms of organization emerge in human history, and how do they constraint future evolution ?<ul>
+<li><em>Guénin–Carlut, Avel. 2021. ‘Thinking like a State - Embodied Intelligence in the Deep History of Our Collective Minds’. <a href="https://osf.io/dxnzt/">https://osf.io/dxnzt/</a> (September 20, 2021).</em> </li>
+</ul>
+</li>
+<li><strong>Computationally,</strong> how and why model the dynamics of creative evolution in collective systems ?<ul>
+<li><em>Guénin–Carlut, Avel. 2022. ‘Cognitive Agency in Sociocultural Evolution’. <a href="https://osf.io/x7yr4/">https://osf.io/x7yr4/</a> (January 14, 2022).</em></li>
+</ul>
+</li>
+<li><strong>Formally,</strong> how to represent creative evolution ?<ul>
+<li><em>Guénin–Carlut, Avel. forthcoming. Physics of Creation - Unfolding Statespaces, (En)Active Inference, and the Adjacent Possible.</em></li>
+</ul>
+</li>
 </ul>
 <h2 id="current-status">Current status</h2>
 <ul>
@@ -166,15 +180,15 @@ Renaissance</a> Course</li>
         <link href="https://avelguenin.github.io/about-me/"/>
         <id>https://avelguenin.github.io/about-me/</id>
 
-        <updated>2021-11-06T10:38:07+01:00</updated>
+        <updated>2022-02-26T13:07:36+01:00</updated>
             <summary>
                 <![CDATA[
-                    I’m looking to get into a PhD contract centered on modelling collective intelligence as active inference / socio-cultural evolution as enactive agency. Any&hellip;
+                    I’m looking to get into a PhD contract centered on modelling creative evolution in collective systems. Any help on this would be greatly&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><strong>I’m looking to get into a PhD contract centered on modelling collective intelligence as active inference / socio-cultural evolution as enactive agency. Any help on this would be greatly appreciated.</strong></p>
+                <p><strong>I’m looking to get into a PhD contract centered on modelling creative evolution in collective systems. Any help on this would be greatly appreciated.</strong></p>
 <p>I am a complex systems researcher who participates in the construction of an integrated conception of life, cognition, and culture as an enactive dynamical process across scales. I draw from both philosophical and computational tools to understand <em>how</em> and <em>why</em> complex functional entities assemble in living systems, and what it means to exist as such a unit. I seek to discover why particular systems create meaning, how this process is embedded in the evolution of human societies, and what it means for our role as situated humans in shaping the collective future.</p>
 <p>I want to participate in building societies that will withstand the test of the so-called Anthropocene era, which I extend my research work beyond classical (academic) institutions. I am developing the <a href="https://kairos-research.org">Kairos</a> participative research &amp; scientific mediation collective which focuses on synthesising complexity-oriented approaches to social sciences. I also work on a cooperative project aimed at integrated synergic research-action approaches to build governance systems and actors network that can navigate real world complexity.</p>
 <p>I have a broader commitment to reveal what’s below sensible reality and beyond the means of our linguistic grasp. This is why I’m interested in various ways to convey meaning without the need for formal language, from (classical) graphical design to creative ventures. I am especially interested in exploring the ethics of impermanence through graphism and fiction. I write stories exploring how actors struggling to impose meaning onto a shifting and ultimately inaccessible reality, and how this process ultimately shapes the evolution of human societies.</p>
