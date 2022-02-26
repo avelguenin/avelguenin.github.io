@@ -13,15 +13,15 @@
             "id": "https://avelguenin.github.io/business/",
             "url": "https://avelguenin.github.io/business/",
             "title": "Business",
-            "summary": "I am currently in commercial contract in the french research-action cooperative Oxamyne, where I lead the development of the economic project Ergodic Design.",
-            "content_html": "<p>I am currently in commercial contract in the french research-action cooperative <a href=\"https://www.oxamyne.fr/\">Oxamyne</a>, where I lead the development of the economic project <strong>Ergodic Design</strong>. Its mandate is to bring complexity science and active inference to the service of collective organisation through systems management lessons, platform design for collective intelligence, and augmented intelligence systems. I also do systems modelling and scientific tutoring on systems science. Feel free to <a href=\"(avel@kairos-research.org)\">contact me</a> if I could be of any help to your project !</p>\n",
+            "summary": "I am the lead developper of the Ergodic Design project, a commercial branch to Kairos Research. Its mandate is to help social systems&hellip;",
+            "content_html": "<p>I am the lead developper of the <a href=\"https://kairos-research.org/ergodic-design/\"><strong>Ergodic Design</strong></a> project, a commercial branch to Kairos Research. Its mandate is to help social systems build an appropriate understanding of their reality, and therefore make their experience subjectively predictable (ergodic). In time, our activity will ecompass systems management lessons, counsel for collective intelligence, augmented intelligence systems, and embodied artificial intelligence. I also do interventions and conferences for the <a href=\"sfec.website/\">French Society of Cliodynamics</a>, as well as systems modelling and scientific tutoring on systems science. Feel free to <a href=\"(avel@kairos-research.org)\">contact me</a> if I could be of any help to your project !</p>\n",
             "author": {
                 "name": "Avel GUÉNIN"
             },
             "tags": [
             ],
             "date_published": "2021-04-14T19:01:17+02:00",
-            "date_modified": "2021-06-09T13:09:35+02:00"
+            "date_modified": "2022-02-26T13:22:12+01:00"
         },
         {
             "id": "https://avelguenin.github.io/creation/",
@@ -49,7 +49,7 @@
             "tags": [
             ],
             "date_published": "2021-04-13T13:24:26+02:00",
-            "date_modified": "2022-01-19T09:59:43+01:00"
+            "date_modified": "2022-02-26T13:15:33+01:00"
         },
         {
             "id": "https://avelguenin.github.io/research/",
@@ -63,7 +63,7 @@
             "tags": [
             ],
             "date_published": "2021-04-13T13:24:23+02:00",
-            "date_modified": "2022-02-26T13:06:02+01:00"
+            "date_modified": "2022-02-26T13:10:25+01:00"
         },
         {
             "id": "https://avelguenin.github.io/about-me/",
