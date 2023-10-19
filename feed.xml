@@ -3,7 +3,7 @@
     <title>Avel GUÉNIN</title>
     <link href="https://avelguenin.github.io/feed.xml" rel="self" />
     <link href="https://avelguenin.github.io" />
-    <updated>2023-10-18T17:23:40+02:00</updated>
+    <updated>2023-10-19T12:57:58+02:00</updated>
     <author>
         <name>Avel GUÉNIN</name>
     </author>
@@ -31,7 +31,7 @@
  from the <em>École Normale Supérieure</em> Paris-Saclay, where I studied industrial engineering, electronics and automation from 2014 to 2016.</p>
 <p>I have more than 6 years of experience in data analysis, which at different points of my cursus I had the opportunity to apply in diverse context such as signal processing, behavioural experiments, biological processes and social dynamics. My background in complex systems physics gives me unique insight into the analysis of complex data, a topic I am currently <a href="https://algorithmic-approaches-to-mathematics.github.io/notebooks/">helping teach</a> at the University of Sussex. Indeed, I have extensive training in the reproduction <em>in silico</em> of the dynamics of articial, biological, and social systems, as well as in the design of computational experiments capable to uncover the structure underlying available data. Finally, I am one of the very few experts of the application of the neuroscientific framework of Active Inference (<a href="https://www.youtube.com/watch?v=Y1egnoCWgUg">see more here!</a>) to the social sciences. Want to know more about it? You can take a look at <a href="https://coda.io/d/Active-Inference-for-the-Social-Sciences-AII-2023_dVVFg3pdihg/Course-Syllabus_suWW6#_lunzB">the course I teach at the Active Inference Institute</a>, or at my <a href="https://youtu.be/vqZG0UNseaw">latest talk</a> at the moment of writing!</p>
 <p>In addition to my research, I am offering consulting services in data analysis and complex systems modeling. As you can imagine, I am equally comfortable working on industrial, biological, or social data. For illustration, you can visit the website I’ve built to present my work on <a href="https://avelguenin.github.io/GRN-doubleswitch/">reproducing and analyzing gene regulatory networks using an asynchronous Gillespie algorithm</a>, and on <a href="https://avelguenin.github.io/france-polarisation/">analyzing geographic and economic data to inform policy on the public investment</a>. However, my edge is on especially complex projects where available data do not allow a clear grip on the system, and further work is needed to model and instrument it. So feel free to send me your hardest problems! </p>
-<p>I am also open to discussing more specialized services relating to my research and teaching. Do you want to design fail-proof human-machine intelligent systems? Do you need someone to teach your workforce about data analysis and their mathematics? Do you want to design user interfaces or working spaces using the latest developments in neuroscience? Do you need a private consulting session to assess the realizability of your own projects? Do you want a private conference on how our brain hallucinates our reality and what it means for motivations? Then write me here: <a href="mailto:&#x61;&#118;&#x65;&#108;&#64;&#107;&#97;&#105;&#114;&#x6f;&#x73;&#x2d;&#114;&#101;&#x73;&#x65;&#97;&#x72;&#99;&#104;&#x2e;&#111;&#114;&#103;">&#x61;&#118;&#x65;&#108;&#64;&#107;&#97;&#105;&#114;&#x6f;&#x73;&#x2d;&#114;&#101;&#x73;&#x65;&#97;&#x72;&#99;&#104;&#x2e;&#111;&#114;&#103;</a></p>
+<p>I am also open to discussing more specialized services relating to my research and teaching. Do you want to design fail-proof human-machine intelligent systems? Do you need someone to teach your workforce about data analysis and their mathematics? Do you want to design user interfaces or working spaces using the latest developments in neuroscience? Do you need a private consulting session to assess the realizability of your own projects? Do you want a private conference on how our brain hallucinates our reality and what it means for motivations? Then write me here: <a href="mailto:&#97;&#118;&#101;&#x6c;&#x40;&#x6b;&#x61;&#105;&#114;&#111;&#x73;&#45;&#114;&#101;&#x73;&#101;&#x61;&#x72;&#99;&#104;&#46;&#x6f;&#x72;&#x67;">&#97;&#118;&#101;&#x6c;&#x40;&#x6b;&#x61;&#105;&#114;&#111;&#x73;&#45;&#114;&#101;&#x73;&#101;&#x61;&#x72;&#99;&#104;&#46;&#x6f;&#x72;&#x67;</a></p>
 <hr>
 <p id="footnote-what-is-it"> <i>Normalien</i> is a special administrative status associated to integration of one of the <i>École Normale Supérieure</i> through the competitive exams. See more 
 <a href="https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_(Paris)">here</a>! </p>
@@ -69,7 +69,7 @@
         <link href="https://avelguenin.github.io/mediation/"/>
         <id>https://avelguenin.github.io/mediation/</id>
 
-        <updated>2023-10-18T17:23:40+02:00</updated>
+        <updated>2023-10-19T00:21:37+02:00</updated>
             <summary>
                 <![CDATA[
                     Mediation &amp; synthesis articles “Paysages culturels” Société Française de Cliodynamique, October 6, 2023. https://www.cliodynamique.org/philosophie/paysages-culturels. “On Participatory Realism.” Kairos Journal, October 18, 2022. https://kairos-research.org/on-participatory-realism.
@@ -152,7 +152,7 @@ Renaissance</a> Course</li>
         <link href="https://avelguenin.github.io/research/"/>
         <id>https://avelguenin.github.io/research/</id>
 
-        <updated>2023-09-18T17:38:20+02:00</updated>
+        <updated>2023-10-19T12:57:58+02:00</updated>
             <summary>
                 <![CDATA[
                     My main interest is to study creative evolution in autopoietic (self-creative) systems, such as woodlice and human societies. I have discussed how such&hellip;
@@ -173,6 +173,10 @@ Renaissance</a> Course</li>
 </ul>
 <h2 id="publications">Publications</h2>
 <ul>
+<li>Guénin–Carlut, Avel. 2023. “Strange Things, Statespace Representation, and Participatory Realism - Comment on ‘Path Integrals, Particular Kinds, and Strange Things.’ by Friston et Al.” OSF Preprints. <a href="https://doi.org/10.31219/osf.io/urz26">https://doi.org/10.31219/osf.io/urz26</a>.<ul>
+<li>Accepted at the Physics of Life journal</li>
+</ul>
+</li>
 <li>Institute, Active Inference, Ander Aguirre, John Boik, Libor Burian, Matthew Brown, RJ Cordes, Scott David, et al. 2023. “The Active Inference Institute and Active Inference Ecosystem,” August. <a href="https://doi.org/10.5281/zenodo.8266281">https://doi.org/10.5281/zenodo.8266281</a>.</li>
 <li>Guénin–Carlut, Avel, and Mahault Albarracin. 2023. “On Embedded Normativity - An Active Inference Account of Agency beyond Flesh.” OSF Preprints. <a href="https://doi.org/10.31219/osf.io/7x8cm">https://doi.org/10.31219/osf.io/7x8cm</a>.<ul>
 <li>Accepted at the <a href="https://iwaiworkshop.github.io/">4th International Workshop
