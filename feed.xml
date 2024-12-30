@@ -3,7 +3,7 @@
     <title>Avel GUÉNIN</title>
     <link href="https://avelguenin.github.io/feed.xml" rel="self" />
     <link href="https://avelguenin.github.io" />
-    <updated>2024-12-28T02:42:27+01:00</updated>
+    <updated>2024-12-30T15:13:44+01:00</updated>
     <author>
         <name>Avel GUÉNIN</name>
     </author>
@@ -31,7 +31,7 @@
  from the <em>École Normale Supérieure</em> Paris-Saclay, where I studied industrial engineering, electronics and automation from 2014 to 2016.</p>
 <p>I have more than 6 years of experience in data analysis, which at different points of my cursus I had the opportunity to apply in diverse context such as signal processing, behavioural experiments, biological processes and social dynamics. My background in complex systems physics gives me unique insight into the analysis of complex data, a topic I am currently <a href="https://algorithmic-approaches-to-mathematics.github.io/notebooks/">helping teach</a> at the University of Sussex. Indeed, I have extensive training in the reproduction <em>in silico</em> of the dynamics of articial, biological, and social systems, as well as in the design of computational experiments capable to uncover the structure underlying available data. Finally, I am one of the very few experts of the application of the neuroscientific framework of Active Inference (<a href="https://www.youtube.com/watch?v=Y1egnoCWgUg">see more here!</a>) to the social sciences. Want to know more about it? You can take a look at <a href="https://coda.io/d/Active-Inference-for-the-Social-Sciences-AII-2023_dVVFg3pdihg/Course-Syllabus_suWW6#_lunzB">the course I teach at the Active Inference Institute</a>, or at my <a href="https://youtu.be/vqZG0UNseaw">latest talk</a> at the moment of writing!</p>
 <p>In addition to my research, I am offering consulting services in data analysis and complex systems modeling. As you can imagine, I am equally comfortable working on industrial, biological, or social data. For illustration, you can visit the website I’ve built to present my work on <a href="https://avelguenin.github.io/GRN-doubleswitch/">reproducing and analyzing gene regulatory networks using an asynchronous Gillespie algorithm</a>, and on <a href="https://avelguenin.github.io/france-polarisation/">analyzing geographic and economic data to inform policy on the public investment</a>. However, my edge is on especially complex projects where available data do not allow a clear grip on the system, and further work is needed to model and instrument it. So feel free to send me your hardest problems! </p>
-<p>I am also open to discussing more specialized services relating to my research and teaching. Do you want to design fail-proof human-machine intelligent systems? Do you need someone to teach your workforce about data analysis and their mathematics? Do you want to design user interfaces or working spaces using the latest developments in neuroscience? Do you need a private consulting session to assess the realizability of your own projects? Do you want a private conference on how our brain hallucinates our reality and what it means for motivations? Then write me here: <a href="mailto:&#x61;&#118;&#101;&#x6c;&#x40;&#107;&#97;&#105;&#114;&#111;&#115;&#x2d;&#114;&#101;&#x73;&#101;&#x61;&#114;&#99;&#x68;&#x2e;&#111;&#x72;&#103;">&#x61;&#118;&#101;&#x6c;&#x40;&#107;&#97;&#105;&#114;&#111;&#115;&#x2d;&#114;&#101;&#x73;&#101;&#x61;&#114;&#99;&#x68;&#x2e;&#111;&#x72;&#103;</a></p>
+<p>I am also open to discussing more specialized services relating to my research and teaching. Do you want to design fail-proof human-machine intelligent systems? Do you need someone to teach your workforce about data analysis and their mathematics? Do you want to design user interfaces or working spaces using the latest developments in neuroscience? Do you need a private consulting session to assess the realizability of your own projects? Do you want a private conference on how our brain hallucinates our reality and what it means for motivations? Then write me here: <a href="mailto:&#x61;&#118;&#101;&#x6c;&#x40;&#x6b;&#97;&#x69;&#114;&#111;&#x73;&#x2d;&#114;&#101;&#x73;&#x65;&#x61;&#114;&#x63;&#104;&#x2e;&#x6f;&#x72;&#x67;">&#x61;&#118;&#101;&#x6c;&#x40;&#x6b;&#97;&#x69;&#114;&#111;&#x73;&#x2d;&#114;&#101;&#x73;&#x65;&#x61;&#114;&#x63;&#104;&#x2e;&#x6f;&#x72;&#x67;</a></p>
 <hr>
 <p id="footnote-what-is-it"> <i>Normalien</i> is a special administrative status associated to integration of one of the <i>École Normale Supérieure</i> through the competitive exams. See more 
 <a href="https://en.wikipedia.org/wiki/%C3%89cole_normale_sup%C3%A9rieure_(Paris)">here</a>! </p>
@@ -164,7 +164,7 @@ Renaissance</a> Course</li>
         <link href="https://avelguenin.github.io/research/"/>
         <id>https://avelguenin.github.io/research/</id>
 
-        <updated>2024-12-28T02:42:27+01:00</updated>
+        <updated>2024-12-30T15:13:44+01:00</updated>
             <summary>
                 <![CDATA[
                     My main interest is to study creative evolution in autopoietic (self-creative) systems, such as woodlice and human societies. I have discussed how such&hellip;
@@ -185,15 +185,15 @@ Renaissance</a> Course</li>
 </ul>
 <h2 id="publications">Publications</h2>
 <ul>
-<li>Guénin–Carlut, Avel, and Isaac Dubourg. 2024. “Power, Ritual, and Identity - A Cognitive Study of Conversion to the Unification Church.” OSF. <a href="https://doi.org/10.31219/osf.io/wg36c">https://doi.org/10.31219/osf.io/wg36c</a>.</li>
+<li><strong>Guénin–Carlut, Avel</strong>, and Isaac Dubourg. 2024. “Power, Ritual, and Identity - A Cognitive Study of Conversion to the Unification Church.” OSF. <a href="https://doi.org/10.31219/osf.io/wg36c">https://doi.org/10.31219/osf.io/wg36c</a>.</li>
 <li>Baulin, Vladimir, Alex Vyatkin, <strong>Avel Guénin—Carlut</strong>, Daniel Friedman, John Bolt, Stefan Falkenstein, Parishrut Jassal, Celio Trois, and Jonathan Minchin. 2024. “FarmWorks: Decentralized AI Agents for Personalized Solutions,” September. <a href="https://doi.org/10.5281/zenodo.13754586">https://doi.org/10.5281/zenodo.13754586</a>.</li>
-<li>Guénin–Carlut, Avel, and Laura Desirée Di Paolo. 2024. “Repenser l’éducation et La Technologie Pour l’Anthropocène: De l’inférence Active à La Technopolitique Située.” OSF. <a href="https://doi.org/10.31219/osf.io/rz3ju">https://doi.org/10.31219/osf.io/rz3ju</a>.<ul>
+<li><strong>Guénin–Carlut, Avel</strong>, and Laura Desirée Di Paolo. 2024. “Repenser l’éducation et La Technologie Pour l’Anthropocène: De l’inférence Active à La Technopolitique Située.” OSF. <a href="https://doi.org/10.31219/osf.io/rz3ju">https://doi.org/10.31219/osf.io/rz3ju</a>.<ul>
 <li>Accepted for publication in the <a href="https://crsdd.esg.uqam.ca/recherche/revue-oeconomia-humana/">Oeconomia Humana</a> issue *LA REDIRECTION ÉCOLOGIQUE : Entre ingénierie de la fermeture du capitalisme et projet démocratique en Anthropocène. Développements conceptuels, retours d’expériences et avancées pratiques”.</li>
 </ul>
 </li>
-<li>Guénin–Carlut, Avel, and Sarah Benazouz. 2024. “Modelling the Social Construction of Preferences in Financial Economics - Toward an Active Inference Reconstruction of Minskyian Macroeconomics,” July. <a href="https://osf.io/rfsv7/">https://osf.io/rfsv7/</a>.</li>
+<li><strong>Guénin–Carlut, Avel</strong>, and Sarah Benazouz. 2024. “Modelling the Social Construction of Preferences in Financial Economics - Toward an Active Inference Reconstruction of Minskyian Macroeconomics,” July. <a href="https://osf.io/rfsv7/">https://osf.io/rfsv7/</a>.</li>
 <li>Guénin–Carlut, Avel. 2024. “From the Existential Stance to Social Constraints - How the Human Mind Becomes Embedded in Our Social, Cultural and Material Context.” OSF. <a href="https://osf.io/3kyzt">https://osf.io/3kyzt</a>.</li>
-<li>White, Ben, Andy Clark, Avel Guenin-Carlut, Axel Constant, and Laura Desirée Di Paolo. 2024. “Extending Minds, Shifting Boundaries: Ambient Technological Environments as Extended Allostatic Control.” OSF. <a href="https://doi.org/10.31234/osf.io/avjx4">https://doi.org/10.31234/osf.io/avjx4</a>.<ul>
+<li>White, Ben, Andy Clark, <strong>Avel Guenin-Carlut</strong>, Axel Constant, and Laura Desirée Di Paolo. 2024. “Extending Minds, Shifting Boundaries: Ambient Technological Environments as Extended Allostatic Control.” OSF. <a href="https://doi.org/10.31234/osf.io/avjx4">https://doi.org/10.31234/osf.io/avjx4</a>.<ul>
 <li>Submitted to the Synthese special issue <a href="https://link.springer.com/collections/hdajhgjcdg">New Directions in the Extended Mind</a></li>
 </ul>
 </li>
@@ -202,12 +202,12 @@ Renaissance</a> Course</li>
 </ul>
 </li>
 <li>Guénin–Carlut, Avel. 2024. “Is the Ecological Redirection Possible? An ALife Perspective on Sociocultural Evolution in the Anthropocene.” OSF Preprints. <a href="https://doi.org/10.31219/osf.io/bcyku">https://doi.org/10.31219/osf.io/bcyku</a>.</li>
-<li>Di Paolo, Laura Desirée, Ben White, Avel Guenin-Carlut, Axel Constant, and Andy Clark. 2024. “Active Inference Goes to School. The Importance of Active Learning in the Age of Large Language Models,” January. <a href="https://doi.org/10.31219/osf.io/zwa83">https://doi.org/10.31219/osf.io/zwa83</a>.</li>
+<li>Di Paolo, Laura Desirée, Ben White, <strong>Avel Guenin-Carlut</strong>, Axel Constant, and Andy Clark. 2024. “Active Inference Goes to School. The Importance of Active Learning in the Age of Large Language Models,” January. <a href="https://doi.org/10.31219/osf.io/zwa83">https://doi.org/10.31219/osf.io/zwa83</a>.</li>
 <li>Guénin–Carlut, Avel. 2020. “Cognition in eco, cognition in vitro - Mesure, explication, et contextualité en sciences cognitives.” OSF Preprints. <a href="https://doi.org/10.31219/osf.io/86cwf">https://doi.org/10.31219/osf.io/86cwf</a>. (Republication with major modifications)</li>
-<li>Guénin–Carlut, Avel, and Mahault Albarracin. 2024. “On Embedded Normativity an Active Inference Account of Agency Beyond Flesh.” In Active Inference, 91–105. Communications in Computer and Information Science. Cham: Springer Nature Switzerland. <a href="https://doi.org/10.1007/978-3-031-47958-8_7">https://doi.org/10.1007/978-3-031-47958-8_7</a>.</li>
+<li><strong>Guénin–Carlut, Avel</strong>, and Mahault Albarracin. 2024. “On Embedded Normativity an Active Inference Account of Agency Beyond Flesh.” In Active Inference, 91–105. Communications in Computer and Information Science. Cham: Springer Nature Switzerland. <a href="https://doi.org/10.1007/978-3-031-47958-8_7">https://doi.org/10.1007/978-3-031-47958-8_7</a>.</li>
 <li>Guénin—Carlut, Avel. 2023. “Strange Things, Statespace Representation, and Participatory Realism - Comment on ‘Path Integrals, Particular Kinds, and Strange Things.’ by Friston et Al.” Physics of Life Reviews, October. <a href="https://doi.org/10.1016/j.plrev.2023.10.027">https://doi.org/10.1016/j.plrev.2023.10.027</a>.</li>
 <li>Institute, Active Inference, Ander Aguirre, John Boik, Libor Burian, Matthew Brown, RJ Cordes, Scott David, et al. 2023. “The Active Inference Institute and Active Inference Ecosystem,” August. <a href="https://doi.org/10.5281/zenodo.8266281">https://doi.org/10.5281/zenodo.8266281</a>.</li>
-<li>Guenin-Carlut, Avel, Ben White, and Lorena Sganzerla. 2023. “The Cognitive Archaeology of Sociocultural Lifeforms.” In ALIFE 2023: Ghost in the Machine: Proceedings of the 2023 Artificial Life Conference. MIT Press. <a href="https://doi.org/10.1162/isal_a_00670">https://doi.org/10.1162/isal_a_00670</a>.<ul>
+<li><strong>Guenin-Carlut, Avel</strong>, Ben White, and Lorena Sganzerla. 2023. “The Cognitive Archaeology of Sociocultural Lifeforms.” In ALIFE 2023: Ghost in the Machine: Proceedings of the 2023 Artificial Life Conference. MIT Press. <a href="https://doi.org/10.1162/isal_a_00670">https://doi.org/10.1162/isal_a_00670</a>.<ul>
 <li><a href="https://youtu.be/tXTj5_hkRPQ">Extended poster presentation</a></li>
 </ul>
 </li>
