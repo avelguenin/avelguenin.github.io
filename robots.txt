@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://avelguenin.github.io/sitemap.xml
+Sitemap: https://avel.kairos-research.org/sitemap.xml
